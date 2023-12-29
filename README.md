@@ -1,3 +1,6 @@
+# Hazen forking Notes
+Im putting this here so that its identified as my my fork. THis is also where I will add my own notes about what Im doing with this so as to preserve the original ReadMe
+
 # restful-booker-platform
 A platform of web services that forms a Bed and Breakfast booking system. The platforms primary purpose is for  training others on how to explore and test web service platforms as well as strategise and implement automation in testing strategies.
 
